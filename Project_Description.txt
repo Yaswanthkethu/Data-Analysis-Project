@@ -1,0 +1,5 @@
+Sales Dashboard:
+Analyzed sales data to identify trends and performance.
+
+Profit Analysis:
+Examined profit margins and regional comparisons.
